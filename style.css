@@ -1,0 +1,17 @@
+body {
+    background-color: #add8e6; /* Pastel blue */
+    color: #333;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-title {
+    font-size: 8vw;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+}
